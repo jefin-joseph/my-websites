@@ -1,2 +1,2 @@
-# portfolio-website
+# my-website
 portfolio website created at LBS
